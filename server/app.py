@@ -58,7 +58,7 @@ def clean_llm_json(raw_text: str) -> dict:
     brace_start = text.find("{")
     if brace_start != -1:
         brace_end = text.rfind("}")
-        text = text[brace_start : brace_end + 1] if brace_end > brace_start else text[brace_start:]
+        text = text[brace_start : brace_end + 1] if brace_end > brace_start else text[brace_start:]#Copyright (c) 2026 Tanay Kumar Singh (@Escanor925). All Rights Reserved
 
     def _extract_field(source: str, key: str, default: str) -> str:
         match = re.search(rf'"{re.escape(key)}"\s*:\s*"([^"]*)"', source)

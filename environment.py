@@ -45,7 +45,7 @@ class Action(BaseModel):
         "rate_limit_all",
         "rollback_last_deploy",
         "do_nothing"
-    ] = Field(..., description="Immediate ops action to keep the system online")
+    ] = Field(..., description="Immediate ops action to keep the system online")#Copyright (c) 2026 Tanay Kumar Singh (@Escanor925). All Rights Reserved
 
     investigation_query: Literal[
         "analyze_ip_traffic",
@@ -143,7 +143,7 @@ class CloudSREEnv:
         if not p.exists():
             p = Path(data_path)
         with open(p, "r", encoding="utf-8") as f:
-            self.dataset: Dict[str, list] = json.load(f)
+            self.dataset: Dict[str, list] = json.load(f)#Copyright (c) 2026 Tanay Kumar Singh (@Escanor925). All Rights Reserved
 
         # Episode state
         self._task_name: str = ""
