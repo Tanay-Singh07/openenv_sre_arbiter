@@ -116,7 +116,7 @@ def format_observation(obs: dict) -> str:
         for query, result in obs["investigation_results"].items():
             lines.append(f"  **{query}:** {result}")
     else:
-        lines.append("\n### Investigation Results: None yet — run queries to gather evidence!")#Copyright (c) 2026 Tanay Kumar Singh (@Escanor925). All Rights Reserved
+        lines.append("\n### Investigation Results: None yet — run queries to gather evidence!")#Copyright (c) 2026 Tanay Kumar Singh (@Tanay-Singh07). All Rights Reserved
 
     return "\n".join(lines)
 
