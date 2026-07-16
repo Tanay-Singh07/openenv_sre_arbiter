@@ -1,20 +1,20 @@
 # PROPRIETARY SOFTWARE LICENSE AGREEMENT
 
-**Copyright (c) 2026 Tanay Kumar Singh (@Escanor925). All Rights Reserved.**
+**Copyright (c) 2026 Tanay Kumar Singh (@Tanay-Singh07). All Rights Reserved.**
 
 ---
 
 ### IMPORTANT: PLEASE READ THIS SOFTWARE LICENSE AGREEMENT ("AGREEMENT") CAREFULLY. BY DOWNLOADING, INSTALLING, COPYING, SAVING, OR OTHERWISE USING ALL OR ANY PORTION OF THIS SOFTWARE, YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE OR ACCESS THE SOFTWARE.
 
-This Proprietary Software License Agreement is a legally binding contract between **Tanay Kumar Singh (@Escanor925)** (hereinafter referred to as the **"Licensor"** or **"Copyright Holder"**) and any individual, entity, or user who accesses, installs, or uses the Software (hereinafter referred to as the **"Licensee"** or **"User"**).
+This Proprietary Software License Agreement is a legally binding contract between **Tanay Kumar Singh (@Tanay-Singh07)** (hereinafter referred to as the **"Licensor"** or **"Copyright Holder"**) and any individual, entity, or user who accesses, installs, or uses the Software (hereinafter referred to as the **"Licensee"** or **"User"**).
 
 ---
 
 ## 1. COPYRIGHT AND OWNERSHIP
-The Software, including but not limited to its source code, object code, structure, organization, documentation, and user interfaces, is the sole and exclusive intellectual property of **Tanay Kumar Singh (@Escanor925)**. The Software is protected by national copyright laws, international treaty provisions, and all other applicable intellectual property laws. 
+The Software, including but not limited to its source code, object code, structure, organization, documentation, and user interfaces, is the sole and exclusive intellectual property of **Tanay Kumar Singh (@Tanay-Singh07)**. The Software is protected by national copyright laws, international treaty provisions, and all other applicable intellectual property laws. 
 
 ## 2. ACKNOWLEDGMENT OF AI-ASSISTED DEVELOPMENT
-The Licensor hereby documents and declares that the Software was developed exclusively by the sole human author, **Tanay Kumar Singh (@Escanor925)**, utilizing automated development and coding assistance from artificial intelligence (AI) collaborators, specifically **Claude** (developed by Anthropic PBC) and **Gemini** (developed by Google LLC). The participation of these AI models does not dilute, transfer, or modify the sole and exclusive copyright ownership of **Tanay Kumar Singh (@Escanor925)**.
+The Licensor hereby documents and declares that the Software was developed exclusively by the sole human author, **Tanay Kumar Singh (@Tanay-Singh07)**, utilizing automated development and coding assistance from artificial intelligence (AI) collaborators, specifically **Claude** (developed by Anthropic PBC) and **Gemini** (developed by Google LLC). The participation of these AI models does not dilute, transfer, or modify the sole and exclusive copyright ownership of **Tanay Kumar Singh (@Tanay-Singh07)**.
 
 ## 3. ABSOLUTE PROHIBITION OF EXTERNAL HUMAN CONTRIBUTIONS
 **No other human individuals, groups, organizations, or external entities are permitted to contribute code, modify the source files, submit pull requests, or alter the Software in any manner.** Contribution access is strictly restricted to the owner and their designated AI assistants. Any unsolicited contributions, pull requests, or code modifications submitted by any external party shall be rejected. Any unauthorized modification of the source code is a direct violation of this Agreement and constitutes copyright infringement under applicable laws.
