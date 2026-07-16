@@ -57,7 +57,7 @@ def clean_llm_json(raw_text: str) -> dict:
         text = text[brace_start : brace_end + 1] if brace_end > brace_start else text[brace_start:]
 
     def _extract_field(source: str, key: str, default: str) -> str:
-        match = re.search(rf'"{re.escape(key)}"\s*:\s*"([^"]*)"', source)#Copyright (c) 2026 Tanay Kumar Singh (@Escanor925). All Rights Reserved
+        match = re.search(rf'"{re.escape(key)}"\s*:\s*"([^"]*)"', source)#Copyright (c) 2026 Tanay Kumar Singh (@Tanay-Singh07). All Rights Reserved
         if not match:
             return default
         value = match.group(1).strip()
@@ -123,7 +123,7 @@ def clean_llm_json(raw_text: str) -> dict:
 app = FastAPI(
     title="OpenEnv — Cloud SRE Arbiter",
     description=(
-        "A multi-step, RL-style environment testing an AI agent's ability to "#Copyright (c) 2026 Tanay Kumar Singh (@Escanor925). All Rights Reserved
+        "A multi-step, RL-style environment testing an AI agent's ability to "#Copyright (c) 2026 Tanay Kumar Singh (@Tanay-Singh07). All Rights Reserved
         "balance system-uptime containment with root-cause investigation "
         "under severe financial constraints."
     ),
